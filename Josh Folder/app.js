@@ -30,17 +30,17 @@ var chartGroup = svg.append("g")
 // ****************************************************************************
 
 // Initial Params
-var chosenXAxis = "contributing_factor_vehicle_1";
+var chosenXAxis = "borough";
 
-// ********* Make hair_lenght the DEFAULT X-AXIS above  ************
+// ********* Make borough the DEFAULT X-AXIS above  ************
 
 
 // function used for updating x-scale var upon click on axis label
-function xScale(crashData, chosenXAxis) {
+function xScale(collisionData, chosenXAxis) {
   // create scales on the x-axis
   var xLinearScale = d3.scaleLinear()
-    .domain([d3.min(crashData, d => d[chosenXAxis]) * 0.8,  // setting the left x-axis val to smaller than smallest data point
-      d3.max(crashData, d => d[chosenXAxis]) * 1.2 // setting the right x-axis val to larger than largest ''
+    .domain([d3.min(collisionData, d => d[chosenXAxis]) * 0.8,  // setting the left x-axis val to smaller than smallest data point
+      d3.max(collisionData, d => d[chosenXAxis]) * 1.2 // setting the right x-axis val to larger than largest ''
     ])
     .range([0, width]);
 
@@ -82,11 +82,11 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 
   var label;
 
-  if (chosenXAxis === "contributing_factor_vehicle_1") {
-    label = "Reason for Crash:";
+  if (chosenXAxis === "borough") {
+    label = "Borough:";
   }
   else {
-    label = "Type of Vehicle Involved:";
+    label = "Null:";
   }
 
   var toolTip = d3.tip()
@@ -110,22 +110,21 @@ function updateToolTip(chosenXAxis, circlesGroup) {
 }
 
 // Retrieve data from the CSV file and execute everything below
-d3.csv("collision_nonull.csv").then(function(crashData, err) {
+d3.csv("borough_collision.csv").then(function(collisionData, err) {
   if (err) throw err;
 
   // parse data
-//   crashData.forEach(function(data) {
-//     data.hair_length = +data.hair_length;
-//     data.num_hits = +data.num_hits;
-//     data.num_albums = +data.num_albums;
-//   });
+  collisionData.forEach(function(data) {
+    data.contributing_factor_total = +data.contributing_factor_total;
+    
+  });
 
   // xLinearScale function above csv import
-  var xLinearScale = xScale(crashData, chosenXAxis);
+  var xLinearScale = xScale(collisionData, chosenXAxis);
 
   // Create y scale function
   var yLinearScale = d3.scaleLinear()
-    .domain([0, d3.max(crashData, d => d.borough)])
+    .domain([0, d3.max(collisionData, d => d.contributing_factor_vehicle_1)])
     .range([height, 0]);
 
   // Create initial axis functions
@@ -144,7 +143,7 @@ d3.csv("collision_nonull.csv").then(function(crashData, err) {
 
   // append initial circles
   var circlesGroup = chartGroup.selectAll("circle")
-    .data(crashData)
+    .data(collisionData)
     .enter()
     .append("circle")
     .attr("cx", d => xLinearScale(d[chosenXAxis]))
@@ -157,19 +156,19 @@ d3.csv("collision_nonull.csv").then(function(crashData, err) {
   var labelsGroup = chartGroup.append("g")
     .attr("transform", `translate(${width / 2}, ${height + 20})`);
 
-  var hairLengthLabel = labelsGroup.append("text")
+  var boroughLabel = labelsGroup.append("text")
     .attr("x", 0)
     .attr("y", 20)
     .attr("value", "contributing_factor_vehicle_1") // value to grab for event listener
     .classed("active", true)
-    .text("Reason for Crash");
+    .text("Borough");
 
-  var albumsLabel = labelsGroup.append("text")
-    .attr("x", 0)
-    .attr("y", 40)
-    .attr("value", "vehicle_type_code1") // value to grab for event listener
-    .classed("inactive", true)
-    .text("Type of Vehicle Involved");
+  // var albumsLabel = labelsGroup.append("text")
+  //   .attr("x", 0)
+  //   .attr("y", 40)
+  //   .attr("value", "vehicle_type_code1") // value to grab for event listener
+  //   .classed("inactive", true)
+  //   .text("Type of Vehicle Involved");
 
   // append y axis
   chartGroup.append("text")
@@ -178,7 +177,7 @@ d3.csv("collision_nonull.csv").then(function(crashData, err) {
     .attr("x", 0 - (height / 2))
     .attr("dy", "1em")
     .classed("axis-text", true)
-    .text("Boroughs");
+    .text("Contributing Factor");
 
   // updateToolTip function above csv import
   var circlesGroup = updateToolTip(chosenXAxis, circlesGroup);
@@ -197,7 +196,7 @@ d3.csv("collision_nonull.csv").then(function(crashData, err) {
 
         // functions here found above csv import
         // updates x scale for new data
-        xLinearScale = xScale(crashData, chosenXAxis);
+        xLinearScale = xScale(collisionData, chosenXAxis);
 
         // updates x axis with transition
         xAxis = renderAxes(xLinearScale, xAxis);
