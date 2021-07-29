@@ -1,0 +1,50 @@
+borough,vehicle_type_code1,vehicle_type_total
+BRONX,Ambulance,2
+BRONX,Bus,1
+BRONX,Dump,1
+BRONX,E-Bike,2
+BRONX,FDNY Ambul,1
+BRONX,Sedan,61
+BRONX,Station Wagon/Sport Utility Vehicle,34
+BRONX,Taxi,3
+BROOKLYN,Ambulance,1
+BROOKLYN,Bike,2
+BROOKLYN,Box Truck,3
+BROOKLYN,Bus,2
+BROOKLYN,Lift Boom,1
+BROOKLYN,Moped,1
+BROOKLYN,Pick-up Truck,7
+BROOKLYN,SEMI TRAIL,1
+BROOKLYN,Sedan,134
+BROOKLYN,Station Wagon/Sport Utility Vehicle,78
+BROOKLYN,Taxi,8
+BROOKLYN,Tractor Truck Diesel,3
+BROOKLYN,Trailer,1
+BROOKLYN,Van,2
+BROOKLYN,�MBU,1
+MANHATTAN,3-Door,1
+MANHATTAN,Box Truck,2
+MANHATTAN,CATER,1
+MANHATTAN,E-Bike,1
+MANHATTAN,Pick-up Truck,1
+MANHATTAN,Sedan,41
+MANHATTAN,Station Wagon/Sport Utility Vehicle,30
+MANHATTAN,Taxi,8
+MANHATTAN,Tow Truck / Wrecker,1
+MANHATTAN,Van,3
+QUEENS,AMBULANCE,1
+QUEENS,Bike,2
+QUEENS,Box Truck,2
+QUEENS,Bus,1
+QUEENS,Convertible,1
+QUEENS,Moped,1
+QUEENS,Motorcycle,2
+QUEENS,Pick-up Truck,4
+QUEENS,Sedan,81
+QUEENS,Station Wagon/Sport Utility Vehicle,54
+QUEENS,Taxi,2
+QUEENS,dump,1
+QUEENS,scooter,1
+STATEN ISLAND,Bus,1
+STATEN ISLAND,Sedan,12
+STATEN ISLAND,Station Wagon/Sport Utility Vehicle,10
