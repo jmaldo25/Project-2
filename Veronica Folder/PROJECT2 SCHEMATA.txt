@@ -1,0 +1,135 @@
+
+
+CREATE TABLE h9ginx95 (
+	crash_date TIMESTAMP,
+	crash_time TIME,
+	borough VARCHAR,
+	zip_code INT,
+	latitude double precision,
+	longitude double precision,
+	location VARCHAR,
+	on_street_name VARCHAR,
+	off_street_name VARCHAR,
+	cross_street_name VARCHAR,                                                                                                    
+	number_of_persons_injured INT,
+	number_of_persons_killed INT,
+	number_of_pedestrians_injured INT,
+	number_of_pedestrians_killed INT,
+	number_of_cyclist_injured INT,
+	number_of_cyclist_killed INT,
+	number_of_motorist_injured INT,
+	number_of_motorist_killed INT,
+	contributing_factor_vehicle_1 VARCHAR,
+	contributing_factor_vehicle_2 VARCHAR,
+	contributing_factor_vehicle_3 VARCHAR,
+	contributing_factor_vehicle_4 VARCHAR,
+	contributing_factor_vehicle_5 VARCHAR,
+	collision_id INT,
+	vehicle_type_code1 VARCHAR,
+	vehicle_type_code2 VARCHAR,
+	vehicle_type_code_3 VARCHAR,
+	vehicle_type_code_4 VARCHAR,
+	vehicle_type_code_5 VARCHAR
+	
+	
+		
+);
+
+
+select *
+from h9ginx95
+where latitude is not null
+ 	and borough is not null
+	and longitude is not null;
+
+	
+
+select borough, latitude, longitude, crash_time, contributing_factor_vehicle_1
+from h9ginx95
+where latitude is not null
+ 	and borough is not null
+	and longitude is not null;
+
+
+
+CREATE TABLE vehicles_crashes (
+	crash_date date,
+	crash_time TIME,
+	borough VARCHAR,
+	zip_code VARCHAR,
+	latitude double precision,
+	longitude double precision,
+	location VARCHAR,
+	on_street_name VARCHAR,
+	off_street_name VARCHAR,
+	cross_street_name VARCHAR,                                                                                                    
+	number_of_persons_injured INT,
+	number_of_persons_killed INT,
+	number_of_pedestrians_injured INT,
+	number_of_pedestrians_killed INT,
+	number_of_cyclist_injured INT,
+	number_of_cyclist_killed INT,
+	number_of_motorist_injured INT,
+	number_of_motorist_killed INT,
+	contributing_factor_vehicle_1 VARCHAR,
+	contributing_factor_vehicle_2 VARCHAR,
+	contributing_factor_vehicle_3 VARCHAR,
+	contributing_factor_vehicle_4 VARCHAR,
+	contributing_factor_vehicle_5 VARCHAR,
+	collision_id INT,
+	vehicle_type_code1 VARCHAR,
+	vehicle_type_code2 VARCHAR,
+	vehicle_type_code_3 VARCHAR,
+	vehicle_type_code_4 VARCHAR,
+	vehicle_type_code_5 VARCHAR
+);	
+
+CREATE TABLE school_locations (
+	fiscal_year VARCHAR,
+	system_code VARCHAR,
+	location_code VARCHAR,
+	location_name VARCHAR,
+	BEDS VARCHAR,
+	Managed_by_name VARCHAR,
+	location_type_description VARCHAR,
+	Location_Category_Description VARCHAR,
+	Grades_text VARCHAR,
+	Grades_final_text VARCHAR,
+	open_date VARCHAR,
+	Status_descriptions VARCHAR,
+	Primary_building_code VARCHAR,
+	primary_address_line_1 VARCHAR,
+	State_code VARCHAR,
+	X_COORDINATE VARCHAR,
+	Y_COORDINATE VARCHAR,
+	LONGITUDE VARCHAR,
+	LATITUDE VARCHAR,
+	Community_district VARCHAR,
+	Council_district VARCHAR,
+	Census_tract VARCHAR,
+	Borough_block_lot VARCHAR,
+	NTA VARCHAR,
+	NTA_Name VARCHAR,
+	Principal_Name VARCHAR,
+	Principal_title VARCHAR,
+	Principal_phone_number VARCHAR,
+	fax_number VARCHAR,
+	Geographic_District_code VARCHAR,
+	Administrative_District_Code VARCHAR,
+	Administrative_District_Name VARCHAR,
+	community_school_sup_name VARCHAR,
+	Tier_3_Support_Location_Name VARCHAR,
+	Tier_3_Support_Leader_Name VARCHAR,
+	Tier_2_Support_Location_Name VARCHAR,
+	HighSchool_Network_Location_Code VARCHAR,
+	HighSchool_Network_Name VARCHAR,
+	HighSchool_Network_Superintendent VARCHAR,
+	Community_district1 VARCHAR,
+	Police_precint VARCHAR
+	
+);
+
+
+SELECT DISTINCT nta_name, location_name, latitude, longitude from school_locations
+WHERE latitude is not null
+	and longitude is not null;
