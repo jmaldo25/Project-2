@@ -16,7 +16,7 @@ var data = "Resources/collision_nonull.csv";
     }
     
     var heat = L.heatLayer(heatArray, {
-        radius: 25,
+        radius: 30,
         blur: 1
     })
     
@@ -36,7 +36,6 @@ var data = "Resources/collision_nonull.csv";
     }
     
     var accidents = L.layerGroup(accidentMarkers)
-    
 
     var street = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
     attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
@@ -64,21 +63,20 @@ var data = "Resources/collision_nonull.csv";
   // Overlays that may be toggled on or off
     var overlayMaps = {
     Heat: heat,
-    Markers: accidents
+    Markers: accidents,
     };
     
     var baseMaps = {
-    Night_Collisions: dark,
-    Day_Collisions: light,
-    All_Collisions: street
+    Dark: dark,
+    Light: light,
+    Street: street
     }
   // Create map object and set default layers
 var myMap = L.map("map", {
-    center: [40.7128, -74.0059],
-    zoom: 10.5,
+    center: [40.7017, -73.8752],
+    zoom: 10.8,
     layers: [street, heat]
     });
 L.control.layers(baseMaps, overlayMaps, {collapsed: false}).addTo(myMap);
     })
-    })
-
+})
