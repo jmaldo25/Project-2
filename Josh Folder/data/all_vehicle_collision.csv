@@ -1,0 +1,962 @@
+vehicle_type_code1,vehicle_type_total
+0,1
+1,2
+11111,1
+12 PA,1
+12 Pa,1
+15 Pa,1
+18 WH,1
+18 WHEELER,1
+197209,1
+1S,1
+2 DOO,1
+2 DR,1
+2 TON,1
+2 WHE,1
+2 dr sedan,1304
+2- to,1
+2000,1
+250-3,1
+26 ft,1
+3 WHE,2
+3 Whe,1
+3 doo,1
+3-Door,138
+315 e,1
+35 FT,1
+3DC-,1
+3DOOR,1
+4 RUN,1
+4 axe,1
+4 dr sedan,20162
+4D,2
+4DR,2
+4DS,3
+4dsd,1
+4whee,1
+5X8 T,1
+985,1
+994,1
+9999,1
+?omme,1
+A-ONE,1
+ABULA,1
+ACCES,1
+AERIA,1
+AMB,23
+AMBU,41
+AMBUL,244
+AMBULACE,1
+AMBULANCE,2029
+AMBULANE,2
+AMBULENCE,2
+AMbul,1
+APP,1
+APPOR,1
+ARMOR,1
+Acces,1
+Amb,3
+Ambu,3
+Ambul,59
+Ambulance,1987
+Ambulette,1
+Armored Truck,189
+BACK,3
+BACK HOE,1
+BACKH,9
+BICYCLE,507
+BK,2
+BLACK,1
+BOAT,1
+BOBCA,4
+BOBCAT FOR,1
+BOOM,2
+BOX,1
+BOX H,1
+BOX T,22
+BOX TRUCK,7
+BROOM,1
+BS,2
+BTM,1
+BUCKE,1
+BULLD,4
+BULLDOZER,1
+BUS,11933
+Backh,2
+Backhoe Lo,1
+Barri,1
+Beverage Truck,155
+Bicyc,1
+Bike,6862
+Bobcat,1
+Box T,5
+Box Truck,12702
+Box t,2
+Box truck,1
+Bucket Tru,1
+Bucketload,1
+Budge,2
+Bulk Agriculture,37
+Bus,10711
+C0MME,1
+CAB,1
+CABIN,1
+CAMP,1
+CARGO,3
+CARGO VAN,1
+CART,1
+CASE,1
+CAT,1
+CAT P,1
+CAT.,1
+CATAPILLAR,1
+CATER,1
+CEMEN,4
+CHART,1
+CHERR,1
+CHEVR,1
+CHEVROLET,1
+CHEVY EXPR,1
+CITY,4
+CMIX,3
+CMIXER,1
+CMS-T,1
+CO,3
+COM,30
+COMER,1
+COMM,4
+COMME,29
+COMMERCIAL,5
+COMMM,1
+COMMU,1
+CON E,1
+CONST,4
+CONT,1
+CONTR,1
+COUPE,1
+COURI,3
+CRANE,7
+Can,1
+Cargo,1
+Carry All,1016
+Cement Tru,1
+Chassis Cab,310
+City,2
+Com,2
+Comix,1
+Comme,3
+Commercial,2
+Concrete Mixer,225
+Const,1
+Convertible,1822
+Courier,1
+Crane,1
+D/V WB,1
+DEIV,1
+DELIV,37
+DELIVERY,2
+DELIVERY T,2
+DELV,23
+DELVI,1
+DEPT VAN #,1
+DIESE,1
+DIRT,1
+DIRT BIKE,2
+DIRTB,1
+DODGE,1
+DOT EQUIPM,1
+DOT T,1
+DRILL RIG,1
+DUMP,58
+DUMP TRUCK,5
+DUMPS,1
+DUMPT,1
+Deliv,5
+Delivery,1
+Delv,3
+Dent and S,1
+Dirt Bike,1
+Dodge,1
+Dump,1747
+Dump truck,3
+Dumps,1
+E BIK,7
+E ONE,1
+E REVEL SC,1
+E SCO,1
+E bike,1
+E-BIK,7
+E-BIKE,2
+E-Bik,62
+E-Bike,537
+E-MOT,1
+E-Sco,80
+E-Scooter,439
+E-UNICYCLE,1
+E-bike,1
+E-scooter,2
+E.M.S,1
+E450,1
+EBIKE,3
+ECONO,1
+ELEC.,1
+ELEC. UNIC,1
+ELECT,26
+ELECTRIC B,1
+ELECTRIC S,2
+EMERGENCY,1
+EMRGN,1
+EMS,3
+EMS A,2
+EMS Ambula,1
+EMS T,1
+EMS bus,1
+ENGIN,2
+ESU RESCUE,1
+ESU T,2
+EXCAV,4
+Ebike,1
+Elect,2
+Enclosed Body - Nonremovable Enclosure,5
+Enclosed Body - Removable Enclosure,5
+Excavator,1
+F550,1
+FD TR,1
+FD tr,1
+FDNY,84
+FDNY #226,1
+FDNY AMBUL,10
+FDNY Ambul,4
+FDNY EMS,1
+FDNY EMS V,1
+FDNY ENGIN,2
+FDNY Engin,1
+FDNY FIRE,9
+FDNY FIRET,2
+FDNY Fire,1
+FDNY LADDE,2
+FDNY TRUCK,8
+FDNY fire,1
+FED E,2
+FEDEX,4
+FIRE,102
+FIRE ENGIN,1
+FIRE TRUCK,696
+FIRER,1
+FIRET,30
+FIRETRUCK,10
+FIRTRUCK,1
+FLAT,14
+FLAT  BED,1
+FLAT-,1
+FLAT/,1
+FLATB,4
+FLATBED,1
+FLATBED FR,1
+FLEET,1
+FOOD,4
+FORD,11
+FORD SPRIN,1
+FORD VAN,1
+FORK,8
+FORK LIFT,3
+FORK-,1
+FORKL,23
+FORKLIFT,2
+FREE,1
+FREIG,11
+FREIGHT TR,1
+FREIGHTLIN,1
+FRHT,3
+FRIEG,1
+FRONT,1
+FR`,1
+FUEL,2
+FUSION,1
+Farm Vehicle,1
+Fd fi,1
+Fdny ambul,2
+Fedex,1
+Fire,33
+Fire Engin,2
+Fire Truck,9
+Fire truck,3
+Firet,4
+Firetruck,2
+Flat,3
+Flat Bed,996
+Flat Rack,159
+Flatb,2
+Food,1
+Ford,1
+Ford Van,1
+Ford sprin,1
+Fork,3
+Fork Lift,1
+Fork lift,1
+Forkl,5
+Forklift,2
+Front-Load,1
+G AMB,1
+G COM,4
+G PSD,2
+G Sem,1
+G TOW,1
+G com,1
+GARBA,10
+GARBAGE TR,4
+GATOR,1
+GE/SC,1
+GEN  AMBUL,1
+GLBEN,1
+GOLF,3
+GOLF CART,3
+GOVER,3
+GRAY,2
+GREEN,1
+GRUMM,1
+Garba,2
+Garbage or Refuse,1136
+Glass Rack,8
+Go kart,1
+Golf,2
+Government,1
+Grain,1
+Grumman LL,1
+HD To,1
+HEAVY,1
+HERTZ RAM,1
+HI TA,1
+HIGHL,1
+HINO,1
+HORSE,2
+HORSE CARR,1
+HOSRE,1
+HOUSE,1
+Hearse,1
+Hopper,12
+Horse,1
+Horse Trai,1
+Hrse,1
+I-haul,1
+ICE C,2
+INTER,1
+Inter,1
+JOHN DEERE,1
+KENWO,1
+KME/F,1
+KP160,1
+KUBOT,1
+LADDER 34,1
+LADDER TRU,2
+LARGE COM VEH(6 OR MORE TIRES),10013
+LEFT,1
+LIEBH,1
+LIGHT,3
+LIGHT TRAI,2
+LIMO,97
+LIMOU,1
+LIVER,1
+LIVERY VEHICLE,8571
+LTRL,1
+Lift Boom,112
+Livery Bus,1
+Livestock Rack,9
+Log,3
+Lunch Wagon,19
+MAC T,1
+MACK,11
+MACK TRUCK,1
+MAIL,4
+MAIL TRUCK,3
+MARK,1
+MARKED VAN,1
+MAXIM,1
+MCY B,1
+MINI,1
+MINIV,1
+MO PE,1
+MOBIL,2
+MOPD,3
+MOPED,41
+MOTOR,11
+MOTOR HOME,1
+MOTOR SCOO,1
+MOTORCYCLE,3136
+MOTORSCOOT,1
+MOVIN,3
+MOVING VAN,1
+MTA,2
+MTA B,8
+MTA BUS,1
+MTA Bus,1
+MTA C,1
+MTA U,1
+MTA V,1
+MTA bus,1
+Mail,1
+Marke,2
+Mecha,1
+Mercedes,1
+Mini,2
+Mini Van,1
+Minibike,18
+Minicycle,12
+Mo pa,1
+Moped,394
+Motor,3
+Motor Home,2
+Motorbike,209
+Motorcycle,3364
+Motorized Home,15
+Motorscoot,1
+Motorscooter,304
+Mta,1
+Multi-Wheeled Vehicle,46
+NAVIG,2
+NEW Y,2
+NISSA,2
+NO/BU,1
+NOT I,1
+NS AM,1
+NT TR,1
+NTTRL,1
+NYC AMBULA,2
+NYC D,1
+NYC F,2
+NYC FD,1
+NYC SANITA,1
+NYC a,1
+NYCHA,1
+NYPD,3
+NYPD VAN,1
+NYS A,1
+NYS Ambula,1
+Nypd,1
+OIL T,1
+OLC,1
+OML,5
+OML/OMNIBU,1
+OMNIB,4
+OMR,11
+OMT,5
+OMT/T,1
+OTHER,18135
+OZ MO,1
+Open Body,35
+P/SH,6
+PAS,19
+PAS V,1
+PASS,4
+PASSE,1
+PASSENGER,2
+PASSENGER VEHICLE,310353
+PC,6
+PEDICAB,21
+PERM,1
+PET,1
+PICK UP,1
+PICK UP TR,3
+PICK-,1
+PICK-UP TRUCK,8634
+PICKU,8
+PICKUP,2
+PICKUP TRU,1
+PK,1164
+POIS,1
+POLIC,1
+POSTA,9
+POSTAL TRU,2
+POSTAL VEH,1
+POSTO,1
+POWER,7
+POWER LADD,1
+POWER SHOV,2
+PRIVA,1
+PS,1
+PSD,8
+PSH,1
+PSP,1
+PU,1
+PUMP,1
+PUSH SCOOT,1
+Pallet,20
+Parce,1
+Pas,1
+Pavin,2
+Pedicab,24
+Pick,5
+Pick up,3
+Pick up Tr,1
+Pick up tr,2
+Pick wh,1
+Pick-,1
+Pick-up Truck,17345
+Picku,1
+Pickup with mounted Camper,34
+Posta,3
+Postal tru,1
+Power,1
+Power Shov,1
+Pumper,1
+Quality tr,1
+R/V,1
+R/V C,1
+RD/S,1
+REFG,10
+REFR,1
+REFRI,3
+RENTA,1
+REP,3
+REPAI,1
+RESCU,1
+RGS,1
+RINGO,1
+RMP,2
+ROAD,3
+ROAD SWEEP,1
+ROOD,1
+RV,9
+RV/Tr,1
+RV/VAN,1
+Ram Promas,1
+Refrigerated Van,252
+Renta,1
+Rescu,3
+Road,1
+SANIT,11
+SANITATION,1
+SANMEN COU,1
+SANTI,1
+SC,1
+SCHOO,31
+SCHOOL BUS,5
+SCOM,1
+SCOMM,1
+SCOO,1
+SCOOT,29
+SCOOTER,219
+SD,1
+SE,2
+SEA,1
+SEDAN,6
+SEGWA,1
+SELF,12
+SELF INSUR,3
+SELF-,1
+SEMI,7
+SEMI TRAIL,1
+SEMI-,1
+SERVI,1
+SHUTTLE BU,1
+SKATE,1
+SKATEBOARD,1
+SKID LOADE,1
+SKID-,1
+SKYWATCH,1
+SLINGSHOT,1
+SM YW,1
+SMALL COM VEH(4 TIRES) ,10759
+SMART CAR,1
+SNOW PLOW,1
+SPARK150 S,1
+SPC,4
+SPECIAL CO,1
+SPORT UTILITY / STATION WAGON,134207
+SPRIN,5
+ST150,1
+STAK,5
+STERL,1
+STREE,14
+SUB,2
+SUBN - AMB,1
+SUBR,1
+SUBUR,3
+SUBURBAN,1
+SURET,1
+SUV,5
+SW,1
+SWEEP,1
+SWT,2
+SYBN,1
+Sanit,5
+Sanitation,1
+Schoo,4
+School Bus,112
+School bus,1
+Scoot,6
+Scooter,5
+Sedan,279292
+Self,2
+Semi,1
+Shove,1
+Skywatch,1
+Smart,1
+Snow,1
+Snow Plow,56
+Spc,1
+Sprin,3
+Sprinter v,1
+St,2
+Stake,1
+Stake or Rack,71
+Station Wagon/Sport Utility Vehicle,216854
+Stree,4
+Street Cle,1
+Street Swe,1
+Subn,2
+Subr,1
+Subur,1
+Sweep,1
+TANK,16
+TANKE,3
+TAXI,28137
+TF,1
+TIR,1
+TKTR,1
+TL,1
+TL TR,1
+TLC,1
+TOW T,29
+TOW TRUCK,8
+TOWER,3
+TOWTR,2
+TR-Trailer,1
+TRAC,11
+TRAC.,1
+TRACK EXCA,1
+TRACT,46
+TRACTOR,3
+TRAIL,87
+TRAILEE,1
+TRAILER,19
+TRAILER/FL,1
+TRALI,1
+TRANS,3
+TRK,12
+TRL,9
+TRLR,4
+TRUCK,113
+TRUCK COMM,1
+TRUCK VAN,1
+TRuck,1
+TTAILER,1
+Tanker,363
+Taxi,27678
+Tow,1
+Tow T,7
+Tow Truck,17
+Tow Truck / Wrecker,606
+Tow t,4
+Tract,5
+Tractor,1
+Tractor Truck Diesel,3889
+Tractor Truck Gasoline,708
+Trail,22
+Trailer,9
+Tram,1
+Truck,9
+U HAU,2
+U HAUL TRU,1
+U-HAL,1
+U-HAU,1
+U-Hau,1
+U.S. POSTA,1
+UHAL,1
+UHAUL,6
+UHUAL,1
+UNK,24
+UNKN,1
+UNKNO,42
+UNKNOWN,16282
+UNKOW,2
+UPS M,1
+UPS T,1
+UPS TRUCK,1
+UPS t,1
+US,2
+US MA,1
+US PO,7
+US POSTAL,2
+US Po,3
+USP M,1
+USPOS,1
+USPS,47
+USPS # 487,1
+USPS #7530,1
+USPS MAIL,1
+USPS POSTA,1
+USPS TRUCK,6
+USPS Truck,1
+USPS truck,1
+USPS/GOVT,1
+USPS2,1
+UT,4
+UTIL,20
+UTILI,27
+UTILITY,1
+UTILITY TR,2
+UTILITY VE,2
+UTILITY WH,1
+UTLIT,1
+Uhaul,1
+Unk,1
+Unkno,2
+Unknown,2
+Unkow,1
+Utili,6
+VAB,1
+VAN,20571
+VAN E,1
+VAN T,6
+VAN TRUCK,1
+VAN W,1
+VAN/B,1
+VAN/T,2
+VAN/TRUCK,2
+VAV,2
+VERIZ,1
+VESPA,1
+Van,4840
+Van Camper,15
+Van T,1
+Van truck,1
+Vanette,10
+WAGON,9
+WHEEL,1
+WHIT,1
+WHITE,2
+WINNE,2
+WORK,2
+WORKH,1
+Wagon,2
+Well Driller,6
+Wh Ford co,1
+White,2
+White ambu,1
+Work,1
+Work van,1
+YALE,1
+YELLO,6
+YELLOWPOWE,1
+YW PO,1
+amb,3
+ambu,10
+ambul,60
+ambulance,20
+amulance,1
+atv p,1
+backh,3
+backhoe,1
+bobca,2
+bobct,1
+box,3
+box t,12
+box truck,2
+boxtr,1
+bulld,1
+bus,18
+cargo,1
+carri,1
+cater,2
+cemen,2
+cm,1
+com,9
+com v,1
+comm,2
+comme,9
+commercial,1
+con ed tru,1
+const,2
+couri,1
+cross,1
+del,1
+deliv,9
+delv,4
+delviery,1
+dhl t,1
+dilevery t,1
+dirt,2
+dirtb,1
+dodge,1
+dp,1
+dump,18
+dump truck,2
+dumps,1
+e com,1
+e sco,1
+e tow,1
+e-bik,1
+east,1
+ebike,1
+elect,4
+ems b,1
+escavator,1
+f15,1
+fd tr,1
+fdny,14
+fdny ambul,1
+fdny ems,1
+fdny truck,1
+fedx,1
+fire,32
+fire truck,9
+firet,8
+firetruck,4
+flat,1
+flatb,1
+food,1
+food truck,1
+ford,3
+ford econo,1
+ford van,1
+fork,6
+forkl,5
+forklift,4
+forlift,1
+freig,3
+g scl,1
+g spc,1
+garba,8
+gas scoote,1
+gokar,1
+golf,3
+government,1
+hi-lo,1
+high,1
+ice c,1
+icecr,1
+inter,1
+jeep,2
+kick scoot,1
+ladde,1
+limo,1
+mack,2
+mail,4
+marke,1
+mc,1
+mcy,1
+mini van,1
+miniv,2
+mopad,1
+moped,11
+moter,1
+motor,6
+movin,1
+mta B,1
+mta b,2
+mtr s,1
+na,1
+nat grid t,1
+none,1
+nyc EMS,1
+nyc d,1
+nycha,1
+nycta,1
+nyfd,1
+nypd,1
+nyu s,1
+oml,1
+omni,1
+omnib,1
+omr,1
+omt,1
+other,1
+p/sh,3
+pas,3
+passa,1
+passe,2
+pay loader,1
+pc,1
+pedic,1
+pedicab,1
+pick,9
+pick up,1
+picku,4
+pickup,2
+plow,1
+post offic,1
+posta,8
+postal bus,1
+postal ser,1
+postal tru,2
+postal van,1
+power,3
+prks,1
+r/v,1
+ram,1
+range,1
+red t,1
+refg,1
+renta,1
+rmb,1
+rmp,1
+road,2
+rv,2
+sanit,6
+sanitaion,1
+sanitaton,1
+schoo,15
+scoo,1
+scooc,1
+scoot,11
+scooter,5
+seagr,1
+sedan,3
+self,4
+semi,1
+semi-,1
+sgws,1
+small,1
+spec,2
+st,1
+stree,10
+subn,8
+subur,2
+suburban,2
+suv,2
+sweep,1
+tank,3
+taxi,1
+te,1
+tk,3
+tow,5
+tow t,9
+tow truck,1
+tower,1
+tr,4
+trac,1
+tract,13
+tractor tr,1
+trail,35
+trailer,3
+trk,2
+trl,2
+truck,26
+uhaul,2
+ukn,1
+unk,8
+unkno,14
+unknown,2
+unkow,1
+ups t,1
+us po,1
+us postal,1
+usps,13
+usps truck,1
+util,3
+utili,8
+utility,1
+utility tr,1
+vAN,1
+van,220
+van t,3
+van w,1
+wagon,2
+white,1
+winne,1
+work,4
+yello,1
+yy,1
+omm,1
+�MBU,1

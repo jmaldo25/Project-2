@@ -1,0 +1,303 @@
+borough,contributing_factor_vehicle_1,contributing_factor_total
+BRONX,80,6
+BRONX,Accelerator Defective,111
+BRONX,Aggressive Driving/Road Rage,990
+BRONX,Alcohol Involvement,2030
+BRONX,Animals Action,111
+BRONX,Backing Unsafely,7630
+BRONX,Brakes Defective,643
+BRONX,Cell Phone (hand-Held),58
+BRONX,Cell Phone (hand-held),8
+BRONX,Cell Phone (hands-free),16
+BRONX,Driver Inattention/Distraction,26703
+BRONX,Driver Inexperience,2541
+BRONX,Driverless/Runaway Vehicle,156
+BRONX,Drugs (Illegal),55
+BRONX,Drugs (illegal),81
+BRONX,Eating or Drinking,12
+BRONX,Failure to Keep Right,232
+BRONX,Failure to Yield Right-of-Way,7770
+BRONX,Fatigued/Drowsy,2306
+BRONX,Fell Asleep,368
+BRONX,Following Too Closely,4929
+BRONX,Glare,466
+BRONX,Headlights Defective,8
+BRONX,Illnes,127
+BRONX,Illness,164
+BRONX,Lane Marking Improper/Inadequate,76
+BRONX,Listening/Using Headphones,4
+BRONX,Lost Consciousness,1192
+BRONX,Obstruction/Debris,292
+BRONX,Other Electronic Device,237
+BRONX,Other Lighting Defects,12
+BRONX,Other Vehicular,8006
+BRONX,Outside Car Distraction,920
+BRONX,Oversized Vehicle,938
+BRONX,Passenger Distraction,810
+BRONX,Passing Too Closely,4577
+BRONX,Passing or Lane Usage Improper,3369
+BRONX,Pavement Defective,179
+BRONX,Pavement Slippery,1646
+BRONX,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,876
+BRONX,Physical Disability,730
+BRONX,Prescription Medication,1409
+BRONX,Reaction to Other Uninvolved Vehicle,112
+BRONX,Reaction to Uninvolved Vehicle,1075
+BRONX,Shoulders Defective/Improper,12
+BRONX,Steering Failure,226
+BRONX,Texting,2
+BRONX,Tinted Windows,16
+BRONX,Tire Failure/Inadequate,140
+BRONX,Tow Hitch Defective,20
+BRONX,Traffic Control Device Improper/Non-Working,64
+BRONX,Traffic Control Disregarded,2814
+BRONX,Turning Improperly,3951
+BRONX,Unsafe Lane Changing,2251
+BRONX,Unsafe Speed,1994
+BRONX,Unspecified,76853
+BRONX,Using On Board Navigation Device,18
+BRONX,Vehicle Vandalism,15
+BRONX,View Obstructed/Limited,1412
+BRONX,Windshield Inadequate,7
+BROOKLYN,80,16
+BROOKLYN,Accelerator Defective,211
+BROOKLYN,Aggressive Driving/Road Rage,1531
+BROOKLYN,Alcohol Involvement,3788
+BROOKLYN,Animals Action,176
+BROOKLYN,Backing Unsafely,15731
+BROOKLYN,Brakes Defective,1195
+BROOKLYN,Cell Phone (hand-Held),67
+BROOKLYN,Cell Phone (hand-held),21
+BROOKLYN,Cell Phone (hands-free),56
+BROOKLYN,Driver Inattention/Distraction,61618
+BROOKLYN,Driver Inexperience,5375
+BROOKLYN,Driverless/Runaway Vehicle,261
+BROOKLYN,Drugs (Illegal),93
+BROOKLYN,Drugs (illegal),116
+BROOKLYN,Eating or Drinking,19
+BROOKLYN,Failure to Keep Right,595
+BROOKLYN,Failure to Yield Right-of-Way,24494
+BROOKLYN,Fatigued/Drowsy,7602
+BROOKLYN,Fell Asleep,882
+BROOKLYN,Following Too Closely,11632
+BROOKLYN,Glare,671
+BROOKLYN,Headlights Defective,35
+BROOKLYN,Illnes,237
+BROOKLYN,Illness,413
+BROOKLYN,Lane Marking Improper/Inadequate,121
+BROOKLYN,Listening/Using Headphones,3
+BROOKLYN,Lost Consciousness,4902
+BROOKLYN,Obstruction/Debris,565
+BROOKLYN,Other Electronic Device,515
+BROOKLYN,Other Lighting Defects,40
+BROOKLYN,Other Vehicular,8390
+BROOKLYN,Outside Car Distraction,2182
+BROOKLYN,Oversized Vehicle,3012
+BROOKLYN,Passenger Distraction,1770
+BROOKLYN,Passing Too Closely,10092
+BROOKLYN,Passing or Lane Usage Improper,8050
+BROOKLYN,Pavement Defective,429
+BROOKLYN,Pavement Slippery,2962
+BROOKLYN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1518
+BROOKLYN,Physical Disability,2588
+BROOKLYN,Prescription Medication,3657
+BROOKLYN,Reaction to Other Uninvolved Vehicle,317
+BROOKLYN,Reaction to Uninvolved Vehicle,2136
+BROOKLYN,Shoulders Defective/Improper,7
+BROOKLYN,Steering Failure,496
+BROOKLYN,Texting,6
+BROOKLYN,Tinted Windows,25
+BROOKLYN,Tire Failure/Inadequate,271
+BROOKLYN,Tow Hitch Defective,40
+BROOKLYN,Traffic Control Device Improper/Non-Working,161
+BROOKLYN,Traffic Control Disregarded,6277
+BROOKLYN,Turning Improperly,7050
+BROOKLYN,Unsafe Lane Changing,3471
+BROOKLYN,Unsafe Speed,3314
+BROOKLYN,Unspecified,168344
+BROOKLYN,Using On Board Navigation Device,14
+BROOKLYN,Vehicle Vandalism,30
+BROOKLYN,View Obstructed/Limited,2525
+BROOKLYN,Windshield Inadequate,17
+MANHATTAN,1,1
+MANHATTAN,80,3
+MANHATTAN,Accelerator Defective,100
+MANHATTAN,Aggressive Driving/Road Rage,1124
+MANHATTAN,Alcohol Involvement,1816
+MANHATTAN,Animals Action,68
+MANHATTAN,Backing Unsafely,10226
+MANHATTAN,Brakes Defective,612
+MANHATTAN,Cell Phone (hand-Held),39
+MANHATTAN,Cell Phone (hand-held),15
+MANHATTAN,Cell Phone (hands-free),61
+MANHATTAN,Driver Inattention/Distraction,56909
+MANHATTAN,Driver Inexperience,5036
+MANHATTAN,Driverless/Runaway Vehicle,101
+MANHATTAN,Drugs (Illegal),74
+MANHATTAN,Drugs (illegal),48
+MANHATTAN,Eating or Drinking,6
+MANHATTAN,Failure to Keep Right,354
+MANHATTAN,Failure to Yield Right-of-Way,12735
+MANHATTAN,Fatigued/Drowsy,8133
+MANHATTAN,Fell Asleep,315
+MANHATTAN,Following Too Closely,8308
+MANHATTAN,Glare,267
+MANHATTAN,Headlights Defective,17
+MANHATTAN,Illnes,94
+MANHATTAN,Illness,1053
+MANHATTAN,Lane Marking Improper/Inadequate,212
+MANHATTAN,Listening/Using Headphones,1
+MANHATTAN,Lost Consciousness,6111
+MANHATTAN,Obstruction/Debris,589
+MANHATTAN,Other Electronic Device,632
+MANHATTAN,Other Lighting Defects,15
+MANHATTAN,Other Vehicular,16656
+MANHATTAN,Outside Car Distraction,2038
+MANHATTAN,Oversized Vehicle,2685
+MANHATTAN,Passenger Distraction,2314
+MANHATTAN,Passing Too Closely,6677
+MANHATTAN,Passing or Lane Usage Improper,7403
+MANHATTAN,Pavement Defective,285
+MANHATTAN,Pavement Slippery,1460
+MANHATTAN,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1412
+MANHATTAN,Physical Disability,1436
+MANHATTAN,Prescription Medication,4294
+MANHATTAN,Reaction to Other Uninvolved Vehicle,324
+MANHATTAN,Reaction to Uninvolved Vehicle,1409
+MANHATTAN,Shoulders Defective/Improper,13
+MANHATTAN,Steering Failure,170
+MANHATTAN,Texting,5
+MANHATTAN,Tinted Windows,11
+MANHATTAN,Tire Failure/Inadequate,109
+MANHATTAN,Tow Hitch Defective,30
+MANHATTAN,Traffic Control Device Improper/Non-Working,103
+MANHATTAN,Traffic Control Disregarded,3032
+MANHATTAN,Turning Improperly,10334
+MANHATTAN,Unsafe Lane Changing,5958
+MANHATTAN,Unsafe Speed,1090
+MANHATTAN,Unspecified,92717
+MANHATTAN,Using On Board Navigation Device,7
+MANHATTAN,Vehicle Vandalism,12
+MANHATTAN,View Obstructed/Limited,1431
+MANHATTAN,Windshield Inadequate,11
+QUEENS,1,1
+QUEENS,80,20
+QUEENS,Accelerator Defective,181
+QUEENS,Aggressive Driving/Road Rage,1095
+QUEENS,Alcohol Involvement,3821
+QUEENS,Animals Action,233
+QUEENS,Backing Unsafely,16512
+QUEENS,Brakes Defective,933
+QUEENS,Cell Phone (hand-Held),50
+QUEENS,Cell Phone (hand-held),11
+QUEENS,Cell Phone (hands-free),34
+QUEENS,Driver Inattention/Distraction,67976
+QUEENS,Driver Inexperience,4628
+QUEENS,Driverless/Runaway Vehicle,153
+QUEENS,Drugs (Illegal),76
+QUEENS,Drugs (illegal),85
+QUEENS,Eating or Drinking,12
+QUEENS,Failure to Keep Right,594
+QUEENS,Failure to Yield Right-of-Way,26917
+QUEENS,Fatigued/Drowsy,6253
+QUEENS,Fell Asleep,859
+QUEENS,Following Too Closely,10752
+QUEENS,Glare,772
+QUEENS,Headlights Defective,26
+QUEENS,Illnes,204
+QUEENS,Illness,216
+QUEENS,Lane Marking Improper/Inadequate,109
+QUEENS,Listening/Using Headphones,2
+QUEENS,Lost Consciousness,2964
+QUEENS,Obstruction/Debris,431
+QUEENS,Other Electronic Device,314
+QUEENS,Other Lighting Defects,31
+QUEENS,Other Vehicular,5401
+QUEENS,Outside Car Distraction,1817
+QUEENS,Oversized Vehicle,1516
+QUEENS,Passenger Distraction,900
+QUEENS,Passing Too Closely,6743
+QUEENS,Passing or Lane Usage Improper,7342
+QUEENS,Pavement Defective,289
+QUEENS,Pavement Slippery,3173
+QUEENS,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,709
+QUEENS,Physical Disability,2567
+QUEENS,Prescription Medication,3030
+QUEENS,Reaction to Other Uninvolved Vehicle,282
+QUEENS,Reaction to Uninvolved Vehicle,2166
+QUEENS,Shoulders Defective/Improper,14
+QUEENS,Steering Failure,439
+QUEENS,Texting,4
+QUEENS,Tinted Windows,11
+QUEENS,Tire Failure/Inadequate,324
+QUEENS,Tow Hitch Defective,32
+QUEENS,Traffic Control Device Improper/Non-Working,152
+QUEENS,Traffic Control Disregarded,6238
+QUEENS,Turning Improperly,6300
+QUEENS,Unsafe Lane Changing,2794
+QUEENS,Unsafe Speed,3011
+QUEENS,Unspecified,122235
+QUEENS,Using On Board Navigation Device,13
+QUEENS,Vehicle Vandalism,13
+QUEENS,View Obstructed/Limited,2225
+QUEENS,Windshield Inadequate,11
+STATEN ISLAND,1,1
+STATEN ISLAND,80,1
+STATEN ISLAND,Accelerator Defective,40
+STATEN ISLAND,Aggressive Driving/Road Rage,182
+STATEN ISLAND,Alcohol Involvement,686
+STATEN ISLAND,Animals Action,192
+STATEN ISLAND,Backing Unsafely,2237
+STATEN ISLAND,Brakes Defective,254
+STATEN ISLAND,Cell Phone (hand-Held),11
+STATEN ISLAND,Cell Phone (hand-held),1
+STATEN ISLAND,Cell Phone (hands-free),6
+STATEN ISLAND,Driver Inattention/Distraction,9674
+STATEN ISLAND,Driver Inexperience,757
+STATEN ISLAND,Driverless/Runaway Vehicle,29
+STATEN ISLAND,Drugs (Illegal),22
+STATEN ISLAND,Drugs (illegal),51
+STATEN ISLAND,Eating or Drinking,4
+STATEN ISLAND,Failure to Keep Right,141
+STATEN ISLAND,Failure to Yield Right-of-Way,3071
+STATEN ISLAND,Fatigued/Drowsy,1140
+STATEN ISLAND,Fell Asleep,134
+STATEN ISLAND,Following Too Closely,1874
+STATEN ISLAND,Glare,207
+STATEN ISLAND,Headlights Defective,2
+STATEN ISLAND,Illnes,52
+STATEN ISLAND,Illness,30
+STATEN ISLAND,Lane Marking Improper/Inadequate,23
+STATEN ISLAND,Lost Consciousness,297
+STATEN ISLAND,Obstruction/Debris,113
+STATEN ISLAND,Other Electronic Device,55
+STATEN ISLAND,Other Lighting Defects,4
+STATEN ISLAND,Other Vehicular,1231
+STATEN ISLAND,Outside Car Distraction,332
+STATEN ISLAND,Oversized Vehicle,160
+STATEN ISLAND,Passenger Distraction,101
+STATEN ISLAND,Passing Too Closely,672
+STATEN ISLAND,Passing or Lane Usage Improper,692
+STATEN ISLAND,Pavement Defective,56
+STATEN ISLAND,Pavement Slippery,913
+STATEN ISLAND,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,113
+STATEN ISLAND,Physical Disability,279
+STATEN ISLAND,Prescription Medication,428
+STATEN ISLAND,Reaction to Other Uninvolved Vehicle,38
+STATEN ISLAND,Reaction to Uninvolved Vehicle,391
+STATEN ISLAND,Shoulders Defective/Improper,2
+STATEN ISLAND,Steering Failure,105
+STATEN ISLAND,Texting,3
+STATEN ISLAND,Tinted Windows,3
+STATEN ISLAND,Tire Failure/Inadequate,66
+STATEN ISLAND,Tow Hitch Defective,9
+STATEN ISLAND,Traffic Control Device Improper/Non-Working,23
+STATEN ISLAND,Traffic Control Disregarded,845
+STATEN ISLAND,Turning Improperly,979
+STATEN ISLAND,Unsafe Lane Changing,390
+STATEN ISLAND,Unsafe Speed,537
+STATEN ISLAND,Unspecified,21298
+STATEN ISLAND,Using On Board Navigation Device,2
+STATEN ISLAND,Vehicle Vandalism,1
+STATEN ISLAND,View Obstructed/Limited,291
+STATEN ISLAND,Windshield Inadequate,1
