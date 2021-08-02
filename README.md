@@ -2,7 +2,7 @@
 
 ## Background
 
-![1-Logo](Veronica Folder/images/reasongsbyboroughfull.png)
+![1-Logo](reasongsbyboroughfull.png)
 
 When looking at the data, as you can tell most of the collisions occur in the busier boroughs.
 With Brooklyn having the most collisions out of the boroughs.
